@@ -24,5 +24,6 @@ body{
     text-align: center;
     height: auto;         
     display: block;
+    opacity: 0;
 
 }
