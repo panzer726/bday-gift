@@ -1,0 +1,26 @@
+@font-face {
+    font-family: font;
+    src: url(MYRIADPRO-REGULAR.OTF);
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    height: 100vh; 
+    background-image: url("bg.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain; 
+
+}
+
+
+.container{
+    width: 92%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 7%;
+    text-align: center;
+    height: 135%;
+}
