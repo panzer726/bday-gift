@@ -22,5 +22,7 @@ body{
     background-color: rgb(255, 255, 255);
     border-radius: 7%;
     text-align: center;
-    height: 135%;
+    height: auto;         
+    display: block;
+
 }
